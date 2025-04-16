@@ -34,7 +34,7 @@ To help stakeholders at **Plant Co.**, a plant nursery business, understand perf
 ## 📁 Files
 
 - `plant-co-sales-dashboard.pbix` – Power BI dashboard file
-- `data-sample.csv` – Sample dataset (anonymized)
+- `Plant_Co dataset.xls` – Sample dataset (anonymized)
 - `screenshots/` – Visual previews of the dashboard
 
 ---
